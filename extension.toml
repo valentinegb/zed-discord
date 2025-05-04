@@ -8,4 +8,4 @@ repository = "https://github.com/valentinegb/zed-discord"
 
 [language_servers.discord-ls]
 name = "Discord LS"
-languages = ["TOML", "Rust", "Nix"]
+languages = ["TOML", "Rust", "Nix", "JSON", "JSONC"]
